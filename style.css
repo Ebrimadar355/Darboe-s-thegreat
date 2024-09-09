@@ -1,0 +1,109 @@
+
+
+nav{
+    background: palevioletred;
+    width: 360px;
+    display:flex;
+    justify-self: center;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 25px rgb(0,0,0,0.3);
+    text-align: center;
+    margin-left: 500px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 25px;
+    
+}
+nav a:hover{
+    transition: 0.26s;
+    background: rgb(87, 86, 86);
+    color: white;
+}
+.picture{
+    background-color: rgb(110, 106, 107);
+    display: inline-block;
+    border: 1px solid rgb(255, 252, 253) ;
+    margin: 10px;
+    
+}
+.description{
+    padding: 10px;
+    text-align: center;
+    color:rgb(249, 249, 252);
+}
+.picture:hover{
+    border: 1px solid rgb(243, 117, 153);
+}
+.h1{
+    text-align: center;
+    color: white;
+    
+}
+.people{
+    font-weight: bold;
+    
+}
+
+.is{
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+    
+}
+main{
+    
+    color: white;
+}
+.color{
+    border-radius: 5px;
+    background-color: palevioletred;
+}
+.SHOP{
+    font-weight: bold;
+    background-color:palevioletred;
+    color: white;
+    margin: 10%;
+
+}
+
+.H4{
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+}
+body{
+    background-color: peru;
+}
+.con{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.lon{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.H2{
+    color: white;
+}
+.people{
+    color: white;
+}
+.dd{
+    font-weight: bold;
+    font-size: 20px;
+}
+.best{
+    color: wheat;
+    background: brown;
+    border: 1px solid ;
+    border-radius: 5px;
+    margin-left:100px ;
+    margin-bottom: 10px;
+}
